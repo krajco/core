@@ -1,0 +1,6 @@
+pip3.8 install pandas
+pip3.8 install numpy
+pip3.8 install -U scikit-learn
+pip3.8 install matplotlib
+pip3.8 install mlxtend
+sudo yum install netcat 
